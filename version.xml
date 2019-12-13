@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <info>
-<versionCode>2</versionCode>
+<versionCode>1</versionCode>
 <versionName>1.0.0</versionName>
-<interstitial>即将发布</interstitial>
+<interstitial></interstitial>
 <image_url>http://ws1.sinaimg.cn/large/886ee157ly1fyq8mr9h80j20u01hcwnc.jpg</image_url>
 <interface>cb.bbcb.xyz</interface>
 <notice>请低调使用，软件为测试阶段有Bug欢迎在群内提出</notice>
