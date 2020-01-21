@@ -2,7 +2,7 @@
 <info>
 <versionCode>2</versionCode>
 <versionName>1.1.2</versionName>
-<interstitial>off</interstitial>
+<interstitial>on</interstitial>
 <image_url>http://ww1.sinaimg.cn/large/886ee157ly1gam3csbsmmj21o02yo164.jpg</image_url>
 <interface>cb.386i.xyz</interface>
 <notice>請低調使用否則會隨時終止軟件，軟件為測試階段如有Bug歡迎在群內反饋。</notice>
