@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <info>
-<versionCode>4</versionCode>
-<versionName>1.1.4</versionName>
+<versionCode>6</versionCode>
+<versionName>1.1.6</versionName>
 <interstitial></interstitial>
 <image_url>http://ww1.sinaimg.cn/large/886ee157ly1gbqem0vij5j21401z4wud.jpg</image_url>
 <interface>cl.de33.xyz</interface>
 <notice>off</notice>
-<apk_url>https://ifoots.github.io/ifoots_v1.1.2.apk</apk_url>
+<apk_url>https://raw.githubusercontent.com/ifoots/ifoots.github.io/com.ifoots.app/ifoots_v1.1.6.apk</apk_url>
 <app_update>软件更新v1.1.6，建议开启VPN更新
 更新内容：
 ①看图背景改为黑色
