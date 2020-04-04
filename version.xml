@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <info>
-<versionCode>4</versionCode>
-<versionName>1.1.4</versionName>
+<versionCode>8</versionCode>
+<versionName>1.1.8</versionName>
 <interstitial></interstitial>
 <image_url>http://ww1.sinaimg.cn/large/886ee157ly1gbqem0vij5j21401z4wud.jpg</image_url>
 <interface>cl.dn37.xyz</interface>
 <notice>off</notice>
-<apk_url>https://ifoots.github.io/ifoots_v1.1.6.apk</apk_url>
+<apk_url>https://ifoots.github.io/ifoots_v1.1.8.apk</apk_url>
 <app_update>软件更新v1.1.8，建议开启VPN更新
 更新内容：
 ①修复看图失效接口
