@@ -2,7 +2,7 @@
 <info>
 <versionCode>8</versionCode>
 <versionName>1.1.8</versionName>
-<interstitial></interstitial>
+<interstitial>on</interstitial>
 <image_url>http://ww1.sinaimg.cn/large/886ee157ly1gbqem0vij5j21401z4wud.jpg</image_url>
 <interface>cl.hn32.xyz</interface>
 <notice>off</notice>
