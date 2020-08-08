@@ -2,7 +2,7 @@
 <info>
 <versionCode>8</versionCode>
 <versionName>1.1.8</versionName>
-<interstitial>on</interstitial>
+<interstitial>off</interstitial>
 <image_url></image_url>
 <interface>cl.bc53.xyz</interface>
 <notice>off</notice>
