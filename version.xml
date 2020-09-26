@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <info>
-<versionCode>8</versionCode>
-<versionName>1.1.8</versionName>
+<versionCode>10</versionCode>
+<versionName>1.2.0</versionName>
 <interstitial>on</interstitial>
 <image_url>http://ww1.sinaimg.cn/large/886ee157ly1gbqem0vij5j21401z4wud.jpg</image_url>
-<interface>cl.dg53.xyz</interface>
+<interface>cl.sh52.xyz</interface>
 <notice></notice>
 <apk_url>https://github.com/ifoots/ifoots.github.io/releases/download/apk/ifoots_v1.1.8.apk</apk_url>
-<app_update>软件已更新v1.1.8</app_update>
+<app_update>软件已更新v1.2.0</app_update>
 </info>
