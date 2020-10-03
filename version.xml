@@ -2,7 +2,7 @@
 <info>
 <versionCode>10</versionCode>
 <versionName>1.2.0</versionName>
-<interstitial>off</interstitial>
+<interstitial>on</interstitial>
 <image_url>https://tlgur.com/d/GXM92VJg</image_url>
 <interface>cl.nx53.xyz</interface>
 <notice></notice>
