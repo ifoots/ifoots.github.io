@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <info>
 <versionCode>14</versionCode>
 <versionName>1.2.4</versionName>
 <interstitial>on</interstitial>
-<image_url>http://tva2.sinaimg.cn/large/0088Y08sly1gkx5kl3ekaj31401z4qjk.jpg</image_url>
+<image_url>https://tlgur.com/d/gj0lPN08</image_url>
 <interface>cl.359x.xyz</interface>
 <notice></notice>
 <apk_url>https://github.com/ifoots/ifoots.github.io/releases/download/apk/ifoots_v1.2.4.apk</apk_url>
