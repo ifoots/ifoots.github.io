@@ -2,7 +2,7 @@
 <info>
 <versionCode>14</versionCode>
 <versionName>1.2.4</versionName>
-<interstitial>on</interstitial>
+<interstitial>off</interstitial>
 <image_url>http://tva2.sinaimg.cn/large/0088Y08sly1gkx5kl3ekaj31401z4qjk.jpg</image_url>
 <interface>cl.159x.xyz</interface>
 <notice></notice>
